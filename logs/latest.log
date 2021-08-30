@@ -1,0 +1,27 @@
+[00:08:49] [Craft Scheduler Thread - 11/INFO] [net.milkbowl.vault.Vault]: [Vault] Checking for Updates ... 
+[00:08:51] [Craft Scheduler Thread - 11/INFO] [net.milkbowl.vault.Vault]: [Vault] No new version available
+[06:09:07] [Craft Scheduler Thread - 12/INFO] [net.milkbowl.vault.Vault]: [Vault] Checking for Updates ... 
+[06:09:08] [Craft Scheduler Thread - 12/INFO] [net.milkbowl.vault.Vault]: [Vault] No new version available
+[12:09:26] [Craft Scheduler Thread - 13/INFO] [net.milkbowl.vault.Vault]: [Vault] Checking for Updates ... 
+[12:09:27] [Craft Scheduler Thread - 13/INFO] [net.milkbowl.vault.Vault]: [Vault] No new version available
+[15:42:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:42:12] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect]: [EssentialsProtect] Disabling EssentialsProtect v2.18.2.1
+[15:42:12] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.18.2.1
+[15:42:12] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat]: [EssentialsChat] Disabling EssentialsChat v2.18.2.1
+[15:42:12] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.2.1
+[15:42:12] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Disabling Essentials v2.18.2.1
+[15:42:12] [Server thread/INFO] [net.milkbowl.vault.Vault]: [Vault] [Economy] Essentials Economy unhooked.
+[15:42:12] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.10
+[15:42:12] [Server thread/INFO] [net.milkbowl.vault.Vault]: [Vault] Disabling Vault v1.7.3-b131
+[15:42:12] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Disabling LuckPerms v5.3.47
+[15:42:12] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Starting shutdown process...
+[15:42:12] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Closing storage...
+[15:42:12] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Goodbye!
+[15:42:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[15:42:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[15:42:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[15:42:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/the_nether
+[15:42:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/the_end
+[15:42:12] [Server thread/INFO] [FML]: Unloading dimension 0
+[15:42:12] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:42:12] [Server thread/INFO] [FML]: Unloading dimension 1
